@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Home",
+    "href": "/"
+  },
+  {
+    "title": "About",
+    "href": "/about",
+    "subLinks": [
+      {
+        "title": "Team",
+        "href": "/team"
+      }
+    ]
+  },
+  {
+    "title": "Philosophy",
+    "href": "/philosophy"
+  },
+  {
+    "title": "Sign up",
+    "href": "/signup"
+  }
+]
