@@ -1,5 +1,9 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+<<<<<<< HEAD
+=======
+import styles from "../styles/Home.module.css";
+>>>>>>> 77c05ba (set up config, routes, folder-structure and some ui)
 
 const Home: NextPage = () => {
   return (
